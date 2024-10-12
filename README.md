@@ -1,10 +1,10 @@
 ![MasterHead](Images/github-image.png)
 
-**Hi, I'm Dwi Laras Setyadita**
+<div align="center"><h1> Hi, I'm Dwi Laras Setyadita </h1></div>
 
 # 💫 About Me:
-🎓 I am currently a student majoring in Information Technology at Yogyakarta State University. 
-<br>🧩 I’m currently learning **Data Science** and **Machine Learning**<br>
+### 🎓 I am currently a student majoring in Information Technology at Yogyakarta State University 
+### 🧩 I’m currently learning **Data Science** and **Machine Learning**
 
 
 ## 🌐 Socials:
