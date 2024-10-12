@@ -1,4 +1,4 @@
-[![MasterHead](Images/github-image.png)]
+![MasterHead](Images/github-image.png)
 
 **Hi, I'm Dwi Laras Setyadita**
 
