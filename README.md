@@ -1,4 +1,4 @@
-![MasterHead](Images/github-image.png)
+![MasterHead](gif/hello.gif)
 
 <div align="center"><h1> Hi, I'm Dwi Laras Setyadita </h1></div>
 
