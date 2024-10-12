@@ -1,4 +1,6 @@
-![MasterHead](gif/hello.gif)
+<div align="center">
+  <img src="gif/hello.gif" style="width:100%;" alt="Deskripsi GIF">
+</div>
 
 <div align="center"><h1> Hi, I'm Dwi Laras Setyadita </h1></div>
 
