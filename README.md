@@ -8,6 +8,8 @@
 ### 🎓 I am currently a student majoring in Information Technology at Yogyakarta State University 
 ### 🧩 I’m currently learning **Data Science** and **Machine Learning**
 
+# Visitors
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=larassetyadita&label=Profile%20views&color=0e75b6&style=flat" alt="larassetyadita" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rastyaditaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/laras-setyadita-36b829268) 
