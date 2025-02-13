@@ -9,25 +9,10 @@
   🧩 Learning <strong>Data Science</strong> and <strong>Machine Learning</strong>
 </p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=larassetyadita&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
-
----
-
-<h2 align="center">🌐 Connect with Me:</h2>
-<p align="center">
-  <a href="https://www.instagram.com/rastyaditaa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/laras-setyadita-36b829268" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
 
 <h2 align="center">💻 Tech Stack:</h2>
 <p align="center">
@@ -46,14 +31,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </p>
 
----
-
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larassetyadita&show_icons=true&locale=en&layout=compact" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=larassetyadita&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos">
-</p>
